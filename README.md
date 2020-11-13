@@ -8,6 +8,7 @@ This project was created as an assignment for Ghassem Tofighi's HCI class at She
 The app is also designed with a Community Assistance Portal, where people in need such as the elderly are able to send requests for help with things like buying groceries or picking up medicine. This allows the most at-risk members of society to safely obtain the essentials that they need for their everyday lives without putting themselves at a greater risk. Users are able to volunteer to assist the members who send out requests.
 
 To see a runthrough of the prototype in Figma, click [here](https://youtu.be/B5X7SszvRy0)
+
 [Public Figma URL](https://www.figma.com/file/Ve62BUrl4KT2FucVn3zoOI/Covid-Cases-in-Canada?node-id=0%3A1)
 
 ## Top 5 Unique Features Planned for the Prototype
